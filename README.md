@@ -15,6 +15,9 @@ STM32-based embedded system that interfaces ADC and TIM11 to generate voltage-de
 ## Tools Used
 - STM32CubeIDE
 
+<img width="700" height="580" alt="image" src="https://github.com/user-attachments/assets/b480313c-6de8-4de7-a753-b219ec03b563" />
+
+
 ## Skills
 STM32, Embedded C, ADC Interfacing, Timer Programming, UART Communication, GPIO Control
 
